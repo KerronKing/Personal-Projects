@@ -1,0 +1,34 @@
+nav ul {
+  border: 1px solid red;
+  position: relative;
+  right: 10rem;
+  top: 0.5rem; }
+  nav ul li {
+    display: inline;
+    padding-left: 1rem;
+    padding-right: 3rem; }
+
+.first {
+  text-align: center; }
+  .first button {
+    margin-top: 2rem;
+    padding: 1rem 2.5rem; }
+
+.logo {
+  border: 1px solid red;
+  border-radius: 50%;
+  font-size: 2rem;
+  font-weight: bold;
+  left: 3%;
+  padding: 0.6rem;
+  position: relative; }
+
+.name {
+  border: 1px solid green;
+  font-size: 4rem;
+  padding-top: 5rem; }
+
+.desc {
+  font-size: 1.5rem; }
+
+/*# sourceMappingURL=styles.css.map */
